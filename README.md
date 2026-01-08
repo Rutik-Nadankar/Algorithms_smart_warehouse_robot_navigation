@@ -21,7 +21,7 @@ Follow these steps to quickly set up and run the Algorithms_smart_warehouse_robo
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Smart-Warehouse-AI.git
+git clone https://github.com/Rutik-Nadankar/Smart-Warehouse-AI.git
 cd Smart-Warehouse-AI
 Install Python 3.10 (required for compatibility)
 Download from Python.org
